@@ -2,7 +2,7 @@
 
 [![Build Status](https://circleci.com/gh/:owner/:repo.svg?style=shield&circle-token=:circle-token)](https://travis-ci.org/facebook/react)
 
-[![Build Status](https://circleci.com/gh/:owner/:repo.png?circle-token=:circle-token)]
+[![Build Status](https://circleci.com/gh/atobatele/Everwise/tree/master.svg?style=shield)]
 
 [![Build Status](https://circleci.com/gh/atobatele/Everwise/tree/master.svg?style=svg)]
 
