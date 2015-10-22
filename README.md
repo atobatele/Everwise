@@ -1,5 +1,6 @@
 # Everwise
-https://circleci.com/gh/:owner/:repo.svg?style=shield&circle-token=:circle-token
+
+[![Build Status](https://circleci.com/gh/:owner/:repo.svg?style=shield&circle-token=:circle-token)](https://travis-ci.org/facebook/react)
 
 git clone https://github.com/atobatele/Everwise.git
 
