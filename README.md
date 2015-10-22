@@ -4,6 +4,10 @@
 
 [![Build Status](https://circleci.com/gh/:owner/:repo.png?circle-token=:circle-token)]
 
+[![Build Status](https://circleci.com/gh/atobatele/Everwise/tree/master.svg?style=svg)]
+
+
+
 [![Build Status](https://circleci.com/gh/:owner/:repo.svg?style=shield&circle-token=:circle-token)]
 
 git clone https://github.com/atobatele/Everwise.git
