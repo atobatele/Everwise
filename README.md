@@ -1,4 +1,4 @@
-# [Everwise] [![Build Status](https://circleci.com/gh/atobatele/Everwise/tree/master.svg?style=shield)]
+# Everwise[![Build Status](https://circleci.com/gh/atobatele/Everwise/tree/master.svg?style=shield)]
 
 
 git clone https://github.com/atobatele/Everwise.git
