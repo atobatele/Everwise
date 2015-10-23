@@ -1,4 +1,5 @@
-# Everwise[![Build Status](https://circleci.com/gh/atobatele/Everwise/tree/master.svg?style=shield)]
+# Everwise
+[![Build Status](https://circleci.com/gh/atobatele/Everwise/tree/master.svg?style=shield)]
 
 
 [![Build Status](https://secure.travis-ci.org/mongodb/node-mongodb-native.png)](http://travis-ci.org/mongodb/node-mongodb-native)
